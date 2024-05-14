@@ -1,0 +1,9 @@
+A member of GenZ is someone born between 1997 and 2015 (inclusive). Using boundary analysis write test cases to test the IsGenZ function which already exists and you can call using:
+
+GenZHelper.IsGenZ(<year>)
+
+that takes a year of birth (in the Gregorian Calendar) and returns true if the person is a member of GenZ and false if it isn't. If the year is not a valid Gregorian Calendar year then the function throws IllegalArgumentException.
+
+
+
+Note: The expected number of cases is 13.
